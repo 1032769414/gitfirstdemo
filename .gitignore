@@ -9,3 +9,5 @@
 .*
 gradle/
 gradlew*
+app/build/
+library_alphaview/build/

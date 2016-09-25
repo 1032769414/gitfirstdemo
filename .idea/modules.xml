@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gitfirstdemo.iml" filepath="$PROJECT_DIR$/gitfirstdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_alphaview/library_alphaview.iml" filepath="$PROJECT_DIR$/library_alphaview/library_alphaview.iml" />
     </modules>
   </component>
 </project>
