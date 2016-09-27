@@ -13,11 +13,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!gg"/>
+        android:text="Hello World!g"/>
     
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="\n添加AA"
         />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="\n\n再加"/>
 </RelativeLayout>
